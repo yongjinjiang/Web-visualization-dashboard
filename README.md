@@ -1,5 +1,5 @@
 ## This is the homework project for unit 12(Web) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/)
-   - Bulit a dashboard to visualize the lattitude dependence of the global weather. The dataset and figs are fed from another project(i.e., homework project for unit 06(Python-APIs)) [https://github.com/yongjinjiang/Python-API](https://github.com/yongjinjiang/Python-API), in which  the weather for more than 500  randomly chosen cities were collected from the (openweathermap API)[https://openweathermap.org/api] for current  date.
+   - Bulit a dashboard to visualize the lattitude dependence of the global weather. The dataset and figs are fed from another project(i.e., homework project for unit 06(Python-APIs)) [https://github.com/yongjinjiang/Python-API](https://github.com/yongjinjiang/Python-API), in which  the weather for more than 500  randomly chosen cities were collected from the (openweathermap API)[https://openweathermap.org/api] for current  date. For more details, refer [here](#the-original-text-of-the-homework-assignment).
    
    - A snapshot of the app: 
 <img src="./Images/app.png " width="600" height="400">
@@ -15,6 +15,7 @@
    - The humidity percentage has only weak dependence on the latitude. It takes smallest value around -20(Southern Hemisphere) and 20 latitude(Northern Hemisphere).
    - There is no obvious dependence of wind speed on latitude. The wind speed in general is from 0 mph to 15 mph.
 
+## **_The original text of the homework assignment:_** 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background

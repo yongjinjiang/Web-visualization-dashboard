@@ -1,5 +1,22 @@
-The app web-link for this project is: (https://yongjinjiang.github.io/Web-visualization-dashboard/)
+## About
+   - This is the homework project for unit 12(Web) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
+   - Bulit a dashboard to visualize the lattitude dependence of the global weather. The dataset and figs are fed from another project(i.e., homework project for unit 06(Python-APIs)) [https://github.com/yongjinjiang/Python-API](https://github.com/yongjinjiang/Python-API), in which  the weather for more than 500  randomly chosen cities were collected from the (openweathermap API)[https://openweathermap.org/api] for current  date. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   
+   - A snapshot of the app: 
+<img src="./Images/app.png " width="600" height="400">
 
+   - The app web-link for this project is: (https://yongjinjiang.github.io/Web-visualization-dashboard/)
+   
+## Usage 
+   - Clone this repo as well as the (repo for Python-APIs) [https://github.com/yongjinjiang/Python-API]. Use the main.ipynb of the second repo to generate a new list of cities and collect new png figures for the current weather data. Feed those figures into ./Resources folder of the current project. Then, you can open the index.html and play with the dashboard. You might get different observations with mine described in the following. 
+   
+## Some observations
+   - From the weather data for 538 cities collectd today(11/07/2018), we conclude that temperature is peaked around 80 Fahrenheit near the equator from -20 to 30 degrees of Latitude. It continually drops to 30 Fahrenheit(even lower for several cities) in the region of 40 to 80 degree of latitude.
+   - There is no obvious dependence of cloudiness on latitude. Yet somehow there are several cloudiness values, 0, 20, 40, 78,97, are most crowded with citis all over the world, much more than other values.
+   - The humidity percentage has only weak dependence on the latitude. It takes smallest value around -20(Southern Hemisphere) and 20 latitude(Northern Hemisphere).
+   - There is no obvious dependence of wind speed on latitude. The wind speed in general is from 0 mph to 15 mph.
+
+## **_The original text of the homework assignment:_** 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background

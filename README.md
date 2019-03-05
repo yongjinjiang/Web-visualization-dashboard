@@ -1,6 +1,6 @@
 ## About
    - This is the homework project for unit 12(Web) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
-   - Bulit a dashboard to visualize the lattitude dependence of the global weather. The dataset and figs are fed from another project(i.e., homework project for unit 06(Python-APIs)) [https://github.com/yongjinjiang/Python-API(https://github.com/yongjinjiang/Python-API), in which  the weather for more than 500  randomly chosen cities were collected from the (openweathermap API)[https://openweathermap.org/api] for current  date. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Bulit a dashboard to visualize the lattitude dependence of the global weather. The dataset and figs are fed from another project(i.e., [homework project](https://github.com/yongjinjiang/Python-API) for unit 06(Python-APIs)), in which  the weather for more than 500  randomly chosen cities were collected from the [openweathermap API](https://openweathermap.org/api) for current  date. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - A snapshot of the app: 
 <img src="./Images/app.png " width="600" height="400">
 

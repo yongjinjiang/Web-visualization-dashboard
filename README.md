@@ -7,7 +7,7 @@
    - The app web-link for this project is: (https://yongjinjiang.github.io/Web-visualization-dashboard/)
    
 ## Usage 
-   - Clone this repo as well as the (repo for Python-APIs) [https://github.com/yongjinjiang/Python-API]. Use the main.ipynb of the second repo to generate a new list of cities and collect new png figures for the current weather data. Feed those figures into ./Resources folder of the current project. Then, you can open the index.html and play with the dashboard. You might get different observations with mine described in the following. 
+   - Clone this repo as well as the [repo for Python-APIs](https://github.com/yongjinjiang/Python-API). Use the main.ipynb of the second repo to generate a new list of cities and collect new png figures for the current weather data. Feed those figures into ./Resources folder of the current project. Then, you can open the index.html and play with the dashboard. You might get different observations from mine described in the following. 
    
 ## Some observations
    - From the weather data for 538 cities collectd today(11/07/2018), we conclude that temperature is peaked around 80 Fahrenheit near the equator from -20 to 30 degrees of Latitude. It continually drops to 30 Fahrenheit(even lower for several cities) in the region of 40 to 80 degree of latitude.

@@ -4,7 +4,7 @@
    - A snapshot of the app: 
 <img src="./Images/app.png " width="600" height="400">
 
-   - The app web-link for this project is: (https://yongjinjiang.github.io/Web-visualization-dashboard/)
+   - The web-link for the app of this project is [here](https://yongjinjiang.github.io/Web-visualization-dashboard/).
    
 ## Usage 
    - Clone this repo as well as the [repo for Python-APIs](https://github.com/yongjinjiang/Python-API). Use the main.ipynb of the second repo to generate a new list of cities and collect new png figures for the current weather data. Feed those figures into ./Resources folder of the current project. Then, you can open the index.html and play with the dashboard. You might get different observations from mine described in the following. 
